@@ -1,8 +1,6 @@
 # Rainy UHF HAT Hardware
 
-<!-- <img src="" -->
-
-UHF RFID technology with the Rainy HAT, an advanced RFID module engineered to integrate effortlessly with your Raspberry Pi board using standard 40 pin GPIOs header. Whether you're a hobbyist or a professional, this module offers a powerful and flexible solution for RFID applications, making it an ideal choice for exploring and deploying high-speed inventory tracking systems.
+<img src="https://github.com/sbcshop/Rainy_UHF_HAT_Software/blob/main/images/FeatureBanner_RainyUHF_HAT.jpg">
 
 This GitHub repository contains Rainy UHF HAT hardware design files. 
 
