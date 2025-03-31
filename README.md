@@ -9,7 +9,7 @@ This GitHub repository contains Rainy UHF HAT hardware design files.
   - [/Mechanical Data](https://github.com/sbcshop/Rainy_UHF_HAT_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [Rainy UHF HAT Software](https://github.com/sbcshop/Rainy_UHF_HAT_Software) - This repo contains getting started guide and Sample Codes for Rainy UHF HAT.
 
-**Disclaimer**: "The design files provided, including schematics, mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration."
+**Disclaimer**: "The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration."
 
 ## Related Products
    * [Rainy UHF Pico Expansion](https://shop.sb-components.co.uk/products/rainypi-uhf-based-on-pico-complete-kit) -  UHF Expansion board easily incorporate Pico/Pico W/Pico 2
